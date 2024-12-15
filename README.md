@@ -19,5 +19,5 @@ Hence, when I reflect on my work, I think I did well with thinking about data fr
 All in all, this is a class I would highly recommend people take regardless of their background in the humanities or working with data. I believe both ends of the spectrum within digital humanities is worthy to learn given its applicability in an increasingly digital world.
 
 Check out my "Looking Forward" page:
-- [Looking Forward](https://r-ker.github.io/github.io/lookingforward)
+- [Looking Forward](https://r-ker.github.io/lookingforward)
 
