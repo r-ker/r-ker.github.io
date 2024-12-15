@@ -1,4 +1,6 @@
-# Final Statement
+# Welcome to my Final Github Portfolio
+
+## Final Statement
 
 ### By: Rachel Ker
 
@@ -15,3 +17,7 @@ This leads me to the context of this class within my own self interests. I feel 
 Hence, when I reflect on my work, I think I did well with thinking about data from a storyteller’s point of view. This really helped me with looking at data since I usually have no interest in working with the data, but I love telling stories. As a result, it made the process more intriguing than I expected. If I were to revise my projects, I would likely have wanted to find some ways to expand them so that they could be implemented for public use and accessibility. For example, figuring out how to turn my group’s collaborative project into an art installation at the Eastern State Penitentiary. With more time, this would have been interesting to pursue.
 
 All in all, this is a class I would highly recommend people take regardless of their background in the humanities or working with data. I believe both ends of the spectrum within digital humanities is worthy to learn given its applicability in an increasingly digital world.
+
+Check out my "Looking Forward" page:
+- [Looking Forward](https://r-ker.github.io/lookingforward.md/lookingforward)
+
